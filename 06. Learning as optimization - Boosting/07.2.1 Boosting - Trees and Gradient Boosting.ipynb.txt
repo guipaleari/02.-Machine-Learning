@@ -1,0 +1,7 @@
+Boosting exercises
+Use Boston housing dataset from sklearn
+
+Compare GradientBoosting with AdaBoost
+Use the adequate parameter for limiting the number of features in the tree splits (as in random forest). Did it have any effect?
+Try different values of the learning rate. Is there a sweet spot?
+GradientBoosting can be used with other base-learners. Try other base learners. Any good results?
